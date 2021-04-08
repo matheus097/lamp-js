@@ -1,2 +1,2 @@
 # lamp-js 
- lâmpada em js
+ lâmpada em js,html e css
